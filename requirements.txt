@@ -1,0 +1,6 @@
+torch==2.3.1
+torch-geometric==2.8.0
+torch-cluster   # build matching your torch / CUDA version: https://data.pyg.org/whl/
+numpy
+pandas
+pyarrow

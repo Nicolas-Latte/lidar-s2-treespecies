@@ -1,0 +1,10 @@
+__pycache__/
+run/
+*.npz
+*.t7
+*.pt
+.env
+# authors' scripts (conversion of the working checkpoint, check against the working code): not part of the repository
+export_weights.py
+check_parity.py
+GITHUB_COMMANDS.md
